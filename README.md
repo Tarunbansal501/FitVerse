@@ -28,7 +28,7 @@ Allows users to create accounts and log in to save preferences and track progres
 
 The website is built with a responsive layout to ensure compatibility with various devices, including desktops, tablets, and mobile phones.
 
-#Technologies Used
+# Technologies Used
 
 1.  HTML: For structuring the content of the website.
 
